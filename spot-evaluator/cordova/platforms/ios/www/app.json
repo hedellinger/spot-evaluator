@@ -1,0 +1,1 @@
+{"id":"ade08b86-4f90-42df-a7a3-d6a47cadd20e","js":[{"path":"cordova.js","remote":true},{"path":"app.js","update":"delta"}],"css":[{"path":"touch/resources/css/cupertino.css","update":"delta","theme":"Cupertino","platform":["chrome","safari","ios","ios-classic","firefox"]}]}
